@@ -11,7 +11,7 @@ module.exports = {
   favicon: 'img/favicon.ico',
   themeConfig: {
     navbar: {
-      title: 'Learn To Code',
+      title: 'EZ Code',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
