@@ -3,7 +3,7 @@ module.exports = {
   title: 'EZ Code',
   tagline: 'Dinosaurs are cool',
   url: 'https://hungdhv97.github.io',
-  baseUrl: '/ezcode/',
+  baseUrl: '/',
   organizationName: 'hungdhv97', // Usually your GitHub org/user name.
   projectName: 'ezcode', // Usually your repo name.
   onBrokenLinks: 'throw',
