@@ -14,7 +14,7 @@ module.exports = {
       title: 'EZ Code',
       logo: {
         alt: 'EZ Code Logo',
-        src: 'img/logo.svg',
+        src: 'img/logo.png',
       },
       items: [
         {
