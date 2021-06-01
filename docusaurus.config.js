@@ -1,7 +1,7 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   title: 'EZ Code',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'From Zero to One',
   url: 'https://hungdhv97.github.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -19,7 +19,7 @@ module.exports = {
       items: [
         {
           type: 'doc',
-          docId: 'tutorial/intro',
+          docId: 'intro',
           position: 'left',
           label: 'Tutorial',
         },
@@ -39,7 +39,7 @@ module.exports = {
           items: [
             {
               label: 'Tutorial',
-              to: '/docs/tutorial/intro',
+              to: '/docs/intro',
             },
           ],
         },
